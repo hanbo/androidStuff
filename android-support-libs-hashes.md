@@ -2,7 +2,7 @@ SHA1 hashes for v4 Support Library for Android in  v4/android-support-v4.jar
 This can help to find out which revision is in use in a project. There is no other indicator within the jar file. 
 Based on https://github.com/danielesegato/android-support-library-archive
 
-|Rev.   | Release date   |                sha1sum                   |             md5sum              
+|Rev.   | Release date   |                sha1sum                   |             md5sum
 |------:|---------------:|------------------------------------------|---------------------------------
 |  1    | March     2011 | fcbf4461f540d9e6f19cb94b3b3e8207e42f9a71 | a3191813b70f6fffb3efdd17712ee1c4 
 |  2    | May       2011 | 61060ddf38258d987d6a2916dd5ac9d5a15bba10 | 3fb707eb649b105a2175451ec208db9e
@@ -22,11 +22,13 @@ Based on https://github.com/danielesegato/android-support-library-archive
 | 19.0.1| December  2013 | db0f122c99ef9f90dbab3fada6d191f2880cbb8e | 0e7dc7acd3505ac97eb7e6d72719bab5
 | 19.1.0| March     2014 | ded9acc6a9792b8f1afc470f0c9cd36d178914cd | 0b72a547a1b0753bc1ff6aefe95a76f4
 | 20    | July      2014 | efec67655f6db90757faa37201efcee2a9ec3507 | 7c2158f2aba8503df83f92c934508e2f
-| 21    | July      2014 |  
+| 21    | October   2014 |
+| 21.0.1| November  2014 |
 | 21.0.2| November  2014 | a13f8fe2c278737e2f0b6fcf00f6b2ae4034aacf |
 | 21.0.3| December  2014 | 3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28 |
-| 22    | March     2015 |  
-| 22.1  | April     2015 |  
-| 22.1.1| April     2015 | 605c447c20ca216b5556af9f215af5d4bba1b117 |
+| 22    | March     2015 |
+| 22.1  | April     2015 | 605c447c20ca216b5556af9f215af5d4bba1b117 
 | 22.2  | May       2015 | e19387dc3b060af32f5401f84fbe246635256955 |
 | 22.2.1| July      2015 | fde22d8d2ef6363324a3d79a1dd16c8645c25564 |
+| 23    | August    2015 | 996044513ad111bbc3ad4cae2516144ac73daa4f |
+| 23.0.1| September 2015 | 0725d32f682f72bdfb3f61a2cd04dc3763710b6c |
